@@ -1,0 +1,96 @@
+
+/* Class = "UITextField"; placeholder = "Enter Your password"; ObjectID = "2L2-vm-cl6"; */
+"2L2-vm-cl6.placeholder" = "Enter Your password";
+
+/* Class = "UIButton"; configuration.title = " Already have account? Login"; ObjectID = "4wQ-sW-ZTz"; */
+"4wQ-sW-ZTz.configuration.title" = " Already have account? Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4wQ-sW-ZTz"; */
+"4wQ-sW-ZTz.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Register"; ObjectID = "56C-vF-tpK"; */
+"56C-vF-tpK.text" = "Register";
+
+/* Class = "UITextField"; placeholder = "Enter Your password"; ObjectID = "6T8-vL-ePB"; */
+"6T8-vL-ePB.placeholder" = "Enter Your password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7cU-LP-cRs"; */
+"7cU-LP-cRs.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Enter Your email"; ObjectID = "ABy-Q3-Vgf"; */
+"ABy-Q3-Vgf.placeholder" = "Enter Your email";
+
+/* Class = "UILabel"; text = "please login to your account"; ObjectID = "BBS-Sm-dVD"; */
+"BBS-Sm-dVD.text" = "please login to your account";
+
+/* Class = "UILabel"; text = "Please enter details to register"; ObjectID = "Dsz-V2-hXw"; */
+"Dsz-V2-hXw.text" = "Please enter details to register";
+
+/* Class = "UILabel"; text = "To Do List"; ObjectID = "Dyl-So-fsN"; */
+"Dyl-So-fsN.text" = "To Do List";
+
+/* Class = "UIButton"; configuration.title = " Delete task"; ObjectID = "MZe-fk-3c4"; */
+"MZe-fk-3c4.configuration.title" = " Delete task";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "MZe-fk-3c4"; */
+"MZe-fk-3c4.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Logout"; ObjectID = "Oa8-c7-rgN"; */
+"Oa8-c7-rgN.configuration.title" = "Logout";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Oa8-c7-rgN"; */
+"Oa8-c7-rgN.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "PN6-1K-UNm"; */
+"PN6-1K-UNm.text" = "Login";
+
+/* Class = "UIButton"; configuration.title = "Resiter"; ObjectID = "Ram-FZ-Evn"; */
+"Ram-FZ-Evn.configuration.title" = "Resiter";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Ram-FZ-Evn"; */
+"Ram-FZ-Evn.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "hw"; ObjectID = "cS9-IE-Z1V"; */
+"cS9-IE-Z1V.text" = "hw";
+
+/* Class = "UILabel"; text = "Canceled!"; ObjectID = "e50-WX-nnw"; */
+"e50-WX-nnw.text" = "Canceled!";
+
+/* Class = "UIButton"; configuration.title = " Don't have an account? Register"; ObjectID = "gBQ-Aw-nHa"; */
+"gBQ-Aw-nHa.configuration.title" = " Don't have an account? Register";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gBQ-Aw-nHa"; */
+"gBQ-Aw-nHa.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "HW"; ObjectID = "i2K-X2-dvA"; */
+"i2K-X2-dvA.text" = "HW";
+
+/* Class = "UITextField"; placeholder = "Enter Your name"; ObjectID = "iYE-uf-QXR"; */
+"iYE-uf-QXR.placeholder" = "Enter Your name";
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "lFy-IV-zbP"; */
+"lFy-IV-zbP.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lFy-IV-zbP"; */
+"lFy-IV-zbP.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Task name:"; ObjectID = "rmH-Cq-IuT"; */
+"rmH-Cq-IuT.text" = "Task name:";
+
+/* Class = "UILabel"; text = "Description:"; ObjectID = "uLl-NH-yUh"; */
+"uLl-NH-yUh.text" = "Description:";
+
+/* Class = "UITextField"; placeholder = "Enter Your email"; ObjectID = "xbq-HC-CV0"; */
+"xbq-HC-CV0.placeholder" = "Enter Your email";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "xhj-SU-8NA"; */
+"xhj-SU-8NA.configuration.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "xhj-SU-8NA"; */
+"xhj-SU-8NA.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = " add a new task"; ObjectID = "zZU-rC-SZy"; */
+"zZU-rC-SZy.configuration.title" = " add a new task";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zZU-rC-SZy"; */
+"zZU-rC-SZy.normalTitle" = "Button";
