@@ -123,5 +123,6 @@ https://github.com/user-attachments/assets/38325c02-7218-4519-b047-305f614a5e94
 https://github.com/user-attachments/assets/9eed81fd-59ea-402f-a14e-152c37b17f9b
 
 
-
+## License
+Copyright (c) 2024 Yarden Cherry | Noa Gilboa
 
